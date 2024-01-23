@@ -52,7 +52,7 @@ namespace Bridge.Example
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            var connectionString = "Data Source=rsp-operadb/opera;User Id=hrs_dev;Password=dev;";
+            var connectionString = "Data Source=localhost/opera;User Id=opera;Password=opera;";
 
             if (!optionsBuilder.IsConfigured)
             {
