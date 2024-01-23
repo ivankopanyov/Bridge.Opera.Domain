@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge.Opera.Domain.Entities.Views", "Bridge.Opera.Domain.Entities.Views\Bridge.Opera.Domain.Entities.Views.csproj", "{3322F681-63A9-4FB0-85E7-9F7AE565850E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge.Opera.Domain.Entities.Tables", "Bridge.Opera.Domain.Entities.Tables\Bridge.Opera.Domain.Entities.Tables.csproj", "{D1BDBE86-6864-414C-99EE-92ABBE555A7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3322F681-63A9-4FB0-85E7-9F7AE565850E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3322F681-63A9-4FB0-85E7-9F7AE565850E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3322F681-63A9-4FB0-85E7-9F7AE565850E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1BDBE86-6864-414C-99EE-92ABBE555A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BDBE86-6864-414C-99EE-92ABBE555A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BDBE86-6864-414C-99EE-92ABBE555A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BDBE86-6864-414C-99EE-92ABBE555A7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
